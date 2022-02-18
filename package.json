@@ -1,0 +1,23 @@
+{
+  "name": "academia-tecnica-capgemini",
+  "version": "1.0.0",
+  "description": "Repositorio criado com o objetivo de resolver o desafio de programação do processo seletivo da Capgemini.",
+  "main": "questao-01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelspereira1/academia-tecnica-capgemini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelspereira1/academia-tecnica-capgemini/issues"
+  },
+  "homepage": "https://github.com/rafaelspereira1/academia-tecnica-capgemini#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

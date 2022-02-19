@@ -86,3 +86,9 @@ function localizarPares(string) {
 // Altere os valores "ovo" e "ifailuhkqq" para rodar o script com outros parametros
 console.log(localizarPares("ovo"));
 console.log(localizarPares("ifailuhkqq"));
+
+testaSenha = () => {
+  return true;
+};
+
+module.export = testaSenha;

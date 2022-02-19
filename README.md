@@ -10,13 +10,13 @@ Repositorio criado com o objetivo de resolver o desafio de programação do proc
 
 
 <br>
-<br>
+
 
 # Requerimentos
 - Node 16.14.0 LTS
 Utilize o [site oficial](https://nodejs.org/en/) para fazer o download do Node.
 - IDE de sua preferencia, neste projeto utilizei o [VScode](https://code.visualstudio.com/).
-<br>
+
 
 #### Como utilizar
 

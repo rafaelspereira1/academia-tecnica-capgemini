@@ -1,5 +1,5 @@
-const testaSenha = require("../questao-03");
+const anagramas = require("../questao-03");
 
-it("Deve testar se a senha tem no minimo 6 caracteres", () => {
-  expect(testaSenha()).toBe(true);
+it("Checa o numero de anagramas baseado no string definido ", () => {
+  expect(anagramas("ifailuhkqq")).toBe(3);
 });
